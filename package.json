@@ -7,7 +7,7 @@
   },
   "author": "Nelson Torres",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "cypress": "^12.17.2"
   }
 }

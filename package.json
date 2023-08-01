@@ -1,0 +1,13 @@
+{
+  "name": "pruebanttdata",
+  "version": "1.0.0",
+  "description": "Prueba para NTT DATA",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Torres",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.2"
+  }
+}

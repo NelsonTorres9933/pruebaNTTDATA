@@ -1,12 +1,11 @@
 # Node artifact files
 node_modules/
-package-lock.json
 dist/
 cypress/videos
-cypress/screenshots
 downloads/
 reports
 reports/*
+package-lock.json
 
 # Compiled Java class files
 *.class
